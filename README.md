@@ -1,4 +1,6 @@
-# TetrisLikeNoRealTimeGame
+# Quadris
+
+A tetris like 2D game
 
 Implemented in C++ OOP. Have textual mode and graphical mode
 
