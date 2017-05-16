@@ -2,9 +2,9 @@
 
 A tetris like 2D game
 
-Implemented in C++ OOP.Originally have textual mode and graphical mode
+Implemented in C++ OOP. Originally have both textual mode and graphical mode
 
-However, i partially re-implement this game for showcase purpose.
+However, i partially re-implement only graphical mode of this game for showcase purpose using SDL library.
 
 <b>textual Mode</b>
 
