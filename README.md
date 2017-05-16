@@ -4,7 +4,7 @@ A tetris like 2D game
 
 Implemented in C++ OOP. Originally have both textual mode and graphical mode
 
-However, i partially re-implement only graphical mode of this game for showcase purpose using SDL library.
+However, i recently partially re-implement only graphical mode of this game for showcase purpose. I used SDL2 libraries to draw graphics and handle user input. 
 
 <b>textual Mode</b>
 
