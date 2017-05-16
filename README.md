@@ -1,6 +1,6 @@
 # Quadris
 
-A tetris like 2D game
+A Tetris like 2D game
 
 Implemented in C++. Originally it had 2 modes(graphical and text as shown in the pictures), also the game is non-real, blocks would only move when user input different instructions.
 
