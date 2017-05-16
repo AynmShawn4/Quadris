@@ -14,6 +14,7 @@ GameManager::GameManager(): g(new Game()) {
 }
 
 GameManager::~GameManager() {
+	delelte g;
 	// TODO Auto-generated destructor stub
 }
 
