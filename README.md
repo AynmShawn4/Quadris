@@ -1,10 +1,10 @@
 # Quadris
 
-A Tetris like 2D game
+A Tetris like 2D game implemented in C++.
 
-Implemented in C++. Originally it had 2 modes(graphical and text as shown in the pictures), also the game is not real-time, blocks would only move when user input different instructions.
+Originally it had 2 modes(graphical and text as shown in the pictures), also the game is not real-time, blocks would only move when user input different instructions.
 
-Recently, i partially re-implement only the graphical mode of this game which becomes real-time for showcase purpose. I used SDL2 libraries to draw graphics and handle user input. 
+Recently, i partially re-implement graphical mode of this game for showcase purpose. I used SDL2 libraries to draw graphics and handle user input. 
 
 <b>textual Mode</b>
 
