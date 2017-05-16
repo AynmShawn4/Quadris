@@ -2,9 +2,9 @@
 
 A tetris like 2D game
 
-Implemented in C++. Originally have both textual mode and graphical mode
+Implemented in C++. Originally it had 2 modes(graphical and text as shown in the pictures), also the game is non-real, blocks would only move when user input different instructions.
 
-However, i recently partially re-implement only graphical mode of this game for showcase purpose. I used SDL2 libraries to draw graphics and handle user input. 
+However, i recently partially re-implement only graphical mode of this game which becomes real-time for showcase purpose. I used SDL2 libraries to draw graphics and handle user input. 
 
 <b>textual Mode</b>
 
