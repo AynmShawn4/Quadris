@@ -1,7 +1,7 @@
 /*
  * Main.cpp
  *
- *  Created on: 2017Äê5ÔÂ14ÈÕ
+ *  Created on: 2017 May 14th
  *      Author: ShawnTang
  */
 
